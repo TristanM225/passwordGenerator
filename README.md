@@ -13,9 +13,9 @@ This is a randomized password generator that works based off of user criterias
 
 
 ## Screenshots / Links
-![Screenshot of project](./assets/images/screenshot.JPG)
-Links to my deployed page! 
-https://tristanm225.github.io/Portfolio/ 
+![Screenshot of project](./assets/images/PasswordGenerator.JPG)
+Link to my deployed page! 
+https://tristanm225.github.io/RandomPasswordCreater/ 
 
 
 
@@ -23,32 +23,26 @@ https://tristanm225.github.io/Portfolio/
 N/A
 
 ## Usage
-To get scouted for a job!
+To create random "secure" website
 
 
 ## Project Status
-Project is: _in progress_ 
-This will be a on going project because learning will never stop!
+Project is: _completed_ 
+This project completes what it was set out to do
 
 ## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
 
 Room for improvement:
-- Styling
 - Cleaning up text / removing unneccessary code
 
 To do:
-- Animations
-- Interactivity
-- Possible gradiance
-- Adding additional projects
+- use a more secure way of randomizing
 
 ## Credit / Acknowledgements 
-Took ideas from 22-Stu_Mini-Project from the UCSD coding boot camp folder
+ Got my inspiration for the arrays from here 
+ https://gist.github.com/bendc/1e6af8f2d8027f2965da Alphabet and special variables arrays
 
-Learned how to add a image to the title bar from WBdocs https://www.w3docs.com/snippets/html/how-to-add-an-image-in-the-title-bar.html 
-
-Took the zoom function from W3 https://www.w3schools.com/howto/howto_css_zoom_hover.asp 
+Also Jorge from class gave me a few pointers!
 
 ## Contact
 Created by TristanM225 Reach out to me by email! TristanM225@gmail.com
